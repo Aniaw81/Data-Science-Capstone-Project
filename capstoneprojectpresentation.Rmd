@@ -1,0 +1,63 @@
+---
+title: "Next Word Prediction - Coursera Data Science Capstone Project"
+author: "Anna Witkowiak"
+date: "15 01 2021"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Introduction
+
+
+This is a presentation about an application which was built for the final Capstone project of the Johns Hopkins University Data Science: Statistics and Machine Learning Specialization on Coursera. This presentation provides a brief overview of the application. 
+
+
+## Description of the algorithm
+
+
+
+
+
+
+The algorithm uses a data file with preprocessed corpus text, which was prepared earlier.
+
+The file contains three data frames. The first one is for 1-grams and counts how many times they appeared in the corpus text. The second one contains bigrams and their counts. Finally, the third one has data about trigrams.
+
+The algorithm chooses 10 words based on trigrams and bigrams according to already entered words. If it is not possible it chooses a word from whole corpus dictionary.
+
+
+
+## App description and instructions
+
+
+
+
+
+
+The Shiny app is a simple page with an input box for entering the text.
+
+When you type your sentence, the algorithm will show the next predicted word in a box.
+
+You can click on the box and a new word will be added to your sentence.
+
+On the bottom there is a cloud of top ten predicted words.
+
+The app works even before you start typing.
+
+## Links
+
+
+
+
+Here you can find [the Shiny application.](https://anna-witkowiak.shinyapps.io/capstone/)
+
+
+The code for the application and related scripts  can be found [in the project repository.](https://github.com/Aniaw81/Data-Science-Capstone-Project)
+
+
+
+
+

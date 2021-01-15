@@ -1,0 +1,24 @@
+{
+    "id": "21EF17C0",
+    "path": "/mnt/batibat/Maciejdev/r-capstone-redo/Model1tidy/capstone/server.R",
+    "project_path": "capstone/server.R",
+    "type": "r_source",
+    "hash": "666278153",
+    "contents": "",
+    "dirty": false,
+    "created": 1609960936025.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "98,49",
+        "scrollLine": "89"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1609960675,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1609960675,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,12 @@
+name: capstone
+title: capstone
+username:
+account: anna-witkowiak
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3478407
+bundleId: 4101834
+url: https://anna-witkowiak.shinyapps.io/capstone/
+when: 1610748007.61429
+asMultiple: FALSE
+asStatic: FALSE
